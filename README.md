@@ -23,6 +23,6 @@
 
 ## 🤝 Connect with Me
 
-* 💼 **LinkedIn:** [Your Profile Link](https://www.linkedin.com/in/quoc-canh-truong-198b12319/)
+* 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/quoc-canh-truong-198b12319/)
 * ✉️ **Email:** canhtruong4719@gmail.com
 
