@@ -39,4 +39,10 @@
   <a href="https://www.youtube.com/watch?v=--oLomu2VIc">
     <img src="https://i.ytimg.com/vi/--oLomu2VIc/hqdefault.jpg?sqp=-oaymwErCOADEI4CSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCVYkl9nFvl3GdzrtnhUkWM7YK_lQ" alt="Video Title 1" width="48%" />
   </a>
+    <a href="https://www.youtube.com/watch?v=321SaePjx30">
+    <img src="https://i.ytimg.com/vi/321SaePjx30/hq720.jpg?sqp=-oaymwFFCNAFEJQDSFryq4qpAzcIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEsgWyhlMA-4AvMY&rs=AOn4CLBQFWVkU1EdR47s2qDuOXP8XVl8Lg" alt="Video Title 1" width="48%" />
+  </a>
+    <a href="https://www.youtube.com/watch?v=FgoNpP0V1tY&t=1s">
+    <img src="https://i.ytimg.com/vi/FgoNpP0V1tY/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLA3RPd4U8mzscSQmfm0aY9xgJe54A" alt="Video Title 1" width="48%" />
+  </a>
 </p>
