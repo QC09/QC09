@@ -4,14 +4,14 @@
 
 ---
 
-### 🔭 What I'm Working On
-* 🚀 Building full-stack web applications integrating modern LLM & multimodal APIs.
-* 🤖 Experimenting with microcontrollers, embedded logic, and DIY hardware.
-* 💡 Sharpening algorithms, data structures, and problem-solving through hackathons and competitive programming.
+### What I'm Working On
+*  Building full-stack web applications integrating modern LLM & multimodal APIs.
+*  Experimenting with microcontrollers, embedded logic, and DIY hardware.
+*  Sharpening algorithms, data structures, and problem-solving through hackathons and competitive programming.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages:** Java, Python, JavaScript, Lua, HTML, CSS, React, ReactJS
 * **Web & Frameworks:** React, Node.js, Next.js, HTML/CSS
@@ -20,14 +20,14 @@
 
 ---
 
-### ⚡ Fun Facts & Outside the Terminal
+### Fun Facts & Outside the Terminal
 * ♟️ Avid chess player who loves analyzing endgames and opening prep.
 * 🎹 Classical pianist tackling Chopin and Beethoven.
 * 🎧 Tech enthusiast who enjoys tinkering with custom hardware and audio setups.
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-canh-truong-198b12319/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/canhtruong4719?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
@@ -36,7 +36,7 @@
 ### My Project Video
 
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=--oLomu2VIc" target="_blank">
+  <a href="https://www.youtube.com/watch?v=--oLomu2VIc">
     <img src="https://i.ytimg.com/vi/--oLomu2VIc/hqdefault.jpg?sqp=-oaymwErCOADEI4CSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCVYkl9nFvl3GdzrtnhUkWM7YK_lQ" alt="Video Title 1" width="48%" />
   </a>
 </p>
