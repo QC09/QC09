@@ -37,9 +37,6 @@
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=--oLomu2VIc">
-    <img src="https://www.youtube.com/watch?v=--oLomu2VIc" alt="Video Title 1" width="48%" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" alt="Video Title 2" width="48%" />
+    <img src="https://i.ytimg.com/vi/--oLomu2VIc/hqdefault.jpg?sqp=-oaymwErCOADEI4CSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCVYkl9nFvl3GdzrtnhUkWM7YK_lQ" alt="Video Title 1" width="48%" />
   </a>
 </p>
